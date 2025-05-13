@@ -48,7 +48,7 @@ def criarArquivo (nome):
         print ("Erro na criação do arquivo")
     else:
         print (f"Arquivo {nome} criado com sucesso")
-    return nome
+    return nome   #Isso acontece devido ao fato de eu estar comendo o cu de quem ta lendo
 
 def adicionaIten (arquivo, nomeJogo, nomeConsole):
     '''
